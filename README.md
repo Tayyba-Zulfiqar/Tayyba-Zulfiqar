@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tayyba Zulfiqar</h1>
 <h3 align="center">Aspiring SWE Student from Pakistan 🇵🇰</h3>
 
+![9700_4_04](https://github.com/user-attachments/assets/cf0a7cdb-6bc5-4a53-b899-5a3fd953a8c5)
+
 - 🔭 I’m currently working on **Amazon clone**
 
 - 🌱 I’m currently learning **JavaScript and its frameworks**
