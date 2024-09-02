@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **tayyba.zulfiqar2004@gmail.com**
 
-- ⚡ Fun fact **I am funny and cool.**
-
 <h3 align="left">Connect with me:</h3>
 
 <h3 align="left">Languages and Tools:</h3>
