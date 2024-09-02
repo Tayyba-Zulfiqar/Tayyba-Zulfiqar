@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring SWE Student from Pakistan 🇵🇰</h3>
 
 <p align="right">
-  <img src="https://github.com/user-attachments/assets/cf0a7cdb-6bc5-4a53-b899-5a3fd953a8c5" alt="9700_4_04" width="200" height="150"/>
+  <img src="https://github.com/user-attachments/assets/cf0a7cdb-6bc5-4a53-b899-5a3fd953a8c5" alt="9700_4_04" width="400" height="400"/>
 </p>
 
 - 🔭 I’m currently working on **Amazon clone**
