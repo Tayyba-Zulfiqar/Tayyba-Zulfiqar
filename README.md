@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tayyba Zulfiqar</h1>
 <h3 align="center">Aspiring SWE Student from Pakistan 🇵🇰</h3>
 
-<p align="right">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/cf0a7cdb-6bc5-4a53-b899-5a3fd953a8c5" alt="9700_4_04" width="350" height="350"/>
 </p>
 
