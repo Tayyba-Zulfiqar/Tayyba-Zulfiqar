@@ -62,6 +62,8 @@
 </p>
 <br>
 <br>
+<h3 align="left">GitHub Status : 🍓🌷</h3>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayyba-zulfiqar&show_icons=true&locale=en" alt="tayyba-zulfiqar" /></p>
 
 
