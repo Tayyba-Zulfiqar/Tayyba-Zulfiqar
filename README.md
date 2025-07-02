@@ -5,10 +5,15 @@
   <img src="https://github.com/user-attachments/assets/c7c33316-887d-4abd-996e-14e2701a26cf" alt="9700_4_04" width="300" height="300" style="margin-top: -40px;"/>
 </p>
 
-What I’m currently up to:
-<p>💕Frontend Developer — building with React & JavaScript</p>
-<p>🌷Backend Developer in making — Node.js, Express & MongoDB</p>
-<p>🎨 Sprinkling creativity into code, building cute and fun projects</p>
+<div>
+  <h5>Some Highlights about me : </h5>
+  <p>🐰3rd Year Software Engineering Student in Pakistan </p>  
+  <p>💕Frontend Developer — building with React & JavaScript</p>
+  <p>🌷Backend Developer in making — Node.js, Express & MongoDB</p>
+  <p>🎨 Sprinkling creativity into code, building cute and fun projects</p>
+</div>
+
+
 <br>
 <br>
 <p>Let’s connect if you’re into coding magic, tech communities, or just wanna chat about cool side projects! 🌼💌</p>
