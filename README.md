@@ -6,9 +6,9 @@
 </p>
 
 What I’m currently up to:
-💕Frontend Developer — building with React & JavaScript
-🌷Backend Developer in making — Node.js, Express & MongoDB
-🎨 Sprinkling creativity into code, building cute and fun projects
+<p>💕Frontend Developer — building with React & JavaScript</p>
+<p>🌷Backend Developer in making — Node.js, Express & MongoDB</p>
+<p>🎨 Sprinkling creativity into code, building cute and fun projects</p>
 
 <h3 align="left">Connect with me:</h3>
 
