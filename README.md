@@ -23,7 +23,7 @@
 <br>
 <br>
 <h3 align="left">Tech Stack : 🖤🪄</h3>
-<br>
+
 <br>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
