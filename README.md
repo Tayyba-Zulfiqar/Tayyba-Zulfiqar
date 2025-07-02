@@ -22,7 +22,7 @@
 <p>Find me at : tayybazulfiqar786@gmail.com 🌸</p>
 <br>
 <br>
-<h3 align="left">Tech Stack : 🖤🪄</h3>
+<h3 align="left">Tech Stack : 🌼🪄</h3>
 
 <br>
 <p align="left">
