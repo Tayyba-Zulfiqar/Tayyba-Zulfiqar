@@ -12,11 +12,11 @@ What I’m currently up to:
 <br>
 <br>
 <p>Let’s connect if you’re into coding magic, tech communities, or just wanna chat about cool side projects! 🌼💌</p>
-<br>
+
 <br>
 <p>Find me at : tayybazulfiqar786@gmail.com 🌸</p>
-
-
+<br>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
