@@ -5,9 +5,10 @@
   <img src="https://github.com/user-attachments/assets/c7c33316-887d-4abd-996e-14e2701a26cf" alt="9700_4_04" width="300" height="300" style="margin-top: -40px;"/>
 </p>
 
-- 🌱 I’m currently learning **Backend development**
-
-- 📫 How to reach me **tayyba.zulfiqar2004@gmail.com**
+What I’m currently up to:
+💕Frontend Developer — building with React & JavaScript
+🌷Backend Developer in making — Node.js, Express & MongoDB
+🎨 Sprinkling creativity into code, building cute and fun projects
 
 <h3 align="left">Connect with me:</h3>
 
