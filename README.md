@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my little corner of the internet 👩🏻‍💻✨</h3>
 
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/c7c33316-887d-4abd-996e-14e2701a26cf](https://pin.it/4sahGB0Sk)" alt="9700_4_04" width="300" height="300" style="margin-top: -40px;"/>
+  <img src="https://pin.it/4sahGB0Sk" alt="9700_4_04" width="300" height="300" style="margin-top: -40px;"/>
 </p>
 
 <div>
