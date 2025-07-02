@@ -9,8 +9,13 @@ What I’m currently up to:
 <p>💕Frontend Developer — building with React & JavaScript</p>
 <p>🌷Backend Developer in making — Node.js, Express & MongoDB</p>
 <p>🎨 Sprinkling creativity into code, building cute and fun projects</p>
+<br>
+<br>
+<p>Let’s connect if you’re into coding magic, tech communities, or just wanna chat about cool side projects! 🌼💌</p>
+<br>
+<br>
+<p>Find me at : tayybazulfiqar786@gmail.com 🌸</p>
 
-<h3 align="left">Connect with me:</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
