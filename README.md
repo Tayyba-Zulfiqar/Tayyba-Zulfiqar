@@ -18,6 +18,8 @@ What I’m currently up to:
 <br>
 <br>
 <h3 align="left">Tech Stack : 🖤🪄</h3>
+<br>
+<br>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -53,7 +55,8 @@ What I’m currently up to:
   </a>
 
 </p>
-
+<br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayyba-zulfiqar&show_icons=true&locale=en" alt="tayyba-zulfiqar" /></p>
 
 
