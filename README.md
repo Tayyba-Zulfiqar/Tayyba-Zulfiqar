@@ -66,7 +66,7 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tayyba-Zulfiqar&show_icons=true&locale=en" alt="tayyba-zulfiqar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tayyba-Zulfiqar&" alt="streak-stats" /></p>
+<h3 align="left">Languages Status : 🍓🌷</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tayyba-Zulfiqar&show_icons=true&locale=en&layout=compact" alt="top-langs" /></p>
 
