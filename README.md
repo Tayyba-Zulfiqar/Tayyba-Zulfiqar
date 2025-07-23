@@ -85,4 +85,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tayyba-Zulfiqar&show_icons=true&locale=en&layout=compact&theme=rose_pine" alt="top-langs" /></p>
 
 
-
+<br>
+<h3 align="left">GitHub Streak : 🍓🧁</h3>
+<br>
+<p><img align="center" src="https://streak-stats.demolab.com?user=Tayyba-Zulfiqar&theme=rose_pine&hide_border=false" alt="GitHub Streak" /></p>
