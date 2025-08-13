@@ -9,7 +9,7 @@
   <h3>Some Highlights about me : </h3>
   <p>🐰3rd Year Software Engineering Student in Pakistan </p>  
   <p>💕MERN Stack Developer — building with MongoDB, Express, React & Node.js</p>
-  <p>🌷Currently diving into Machine Learning & Deep Learning</p>
+  <p>🌷Currently diving into artificial intelligence</p>
   <p>🎨 Sprinkling creativity into code, building cute and fun projects</p>
 </div>
 
