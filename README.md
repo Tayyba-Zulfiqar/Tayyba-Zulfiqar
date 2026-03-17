@@ -7,7 +7,7 @@
 
 <div>
   <h3>Some Highlights about me : </h3>
-  <p>🐰3rd Year Software Engineering Student in Pakistan </p>  
+  <p>🐰Final Year Software Engineering Student in Pakistan </p>  
   <p>💕MERN Stack Developer — building with MongoDB, Express, React & Node.js</p>
   <p>🌷Currently diving into artificial intelligence</p>
   <p>🎨 Sprinkling creativity into code, building cute and fun projects</p>
@@ -19,7 +19,7 @@
 <p>Let’s connect if you’re into coding magic, tech communities, or just wanna chat about cool side projects! 🌼💌</p>
 
 <br>
-<p>Find me at : tayybazulfiqar.2004@gmail.com 🌸</p>
+<p>Find me at : tayybazulfiqar786@gmail.com 🌸</p>
 <br>
 <br>
 <h3 align="left">Tech Stack : 🌼🪄</h3>
