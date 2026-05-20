@@ -47,7 +47,7 @@
 <br>
 ---
 
-# 💖 My Coding Universe 💖
+#  My Contributions 💌✨
 
 <p align="center">
   <img 
@@ -63,7 +63,7 @@
 <p align="center">
   
 💌 Let’s connect if you love coding, cute projects, tech communities, or fun side quests!
-🌸**tayybazulfiqar786@gmail.com**🌸
+                          🌸**tayybazulfiqar786@gmail.com**🌸
 </p>
 
 <p align="center">
