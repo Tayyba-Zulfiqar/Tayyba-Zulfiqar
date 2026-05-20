@@ -18,7 +18,7 @@
 ## 🌷 About Me
 
 🐰 Final Year Software Engineering Student in Pakistan  
-💕 MERN Stack Developer — building with MongoDB, Express, React & Node.js  
+💕 MERN Stack Developer — building with MongoDB, Express, React , React Native & Node.js  
 🌸 Currently exploring Artificial Intelligence & creative tech  
 🎀 Love building aesthetic, fun, and meaningful projects  
 ☁️ Mixing creativity with code every day  
@@ -36,8 +36,7 @@
 <br>
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,docker,mysql,sqlite,postman&theme=light" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nodejs,express,mongodb,docker,mysql,sqlite,postman&theme=light" />
 </p>
 <br>
 ---
