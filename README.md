@@ -35,12 +35,13 @@
 
 # 🌼 Tech Stack 🪄
 
+<br>
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,docker,mysql,sqlite,postman&theme=light" />
 
 </p>
-
+<br>
 ---
 
 # 💖 My Coding Universe 💖
@@ -57,14 +58,13 @@
 # 🐼 Panda Coding Corner 🌸
 
 <p align="center">
-  <img 
-    src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" 
-    width="260"
-  />
+
 </p>
 
 <p align="center">
-  🌸 fueled by iced coffee, late-night coding & cute ideas 🌸
+  
+💌 Let’s connect if you love coding, cute projects, tech communities, or fun side quests!
+🌸**tayybazulfiqar786@gmail.com**🌸
 </p>
 
 ---
