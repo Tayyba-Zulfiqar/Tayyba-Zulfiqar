@@ -12,7 +12,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=600&size=24&pause=1000&color=FFB6D9&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%92%95;Learning+Artificial+Intelligence+%F0%9F%8C%B8;Building+Cute+%26+Creative+Projects+%F0%9F%8E%A8;Frontend+Magic+%E2%9C%A8;Backend+Builder+%F0%9F%8C%B7" />
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ1bW5qZ2x1b3B6c3B2b3N6d2t6Z2R0eG9jZ2R0cWJ1Z3R5bGZ2aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" 
+    width="500"
+  />
 </p>
 
 ---
@@ -66,8 +69,6 @@
 💌 Let’s connect if you love coding, cute projects, tech communities, or fun side quests!
 🌸**tayybazulfiqar786@gmail.com**🌸
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6D9&height=120&section=footer"/>
