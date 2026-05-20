@@ -58,17 +58,18 @@
 
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" 
-    width="260"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyba-Zulfiqar&layout=compact&theme=tokyonight&hide_border=true&title_color=FFB6D9&text_color=F8D7E3&bg_color=1a1b27" 
+    width="420"
   />
 </p>
 
 <p align="center">
-  🌸 fueled by iced coffee, late-night coding & cute ideas 🌸
+  <img 
+    src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" 
+    width="220"
+  />
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6D9&height=120&section=footer"/>
+  🌸 powered by creativity & endless debugging sessions 🌸
 </p>
