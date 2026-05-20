@@ -54,6 +54,8 @@
 
 ---
 
+
+
 # 🐼 Panda Coding Corner 🌸
 
 <p align="center">
@@ -65,11 +67,11 @@
 
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" 
+    src="https://media.giphy.com/media/8vQSQ3cNXuDGo/giphy.gif" 
     width="220"
   />
 </p>
 
 <p align="center">
-  🌸 powered by creativity & endless debugging sessions 🌸
+  🌸 powered by coffee, creativity & debugging magic 🌸
 </p>
