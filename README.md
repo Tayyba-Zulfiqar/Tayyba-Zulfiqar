@@ -61,10 +61,6 @@
 # 🐼 Panda Coding Corner 🌸
 
 <p align="center">
-
-</p>
-
-<p align="center">
   
 💌 Let’s connect if you love coding, cute projects, tech communities, or fun side quests!
 🌸**tayybazulfiqar786@gmail.com**🌸
