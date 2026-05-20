@@ -27,8 +27,6 @@
 
 💌 Let’s connect if you love coding, cute projects, tech communities, or fun side quests!
 
-📧 **tayybazulfiqar786@gmail.com**
-
 ---
 
 # 🌼 Tech Stack 🪄
@@ -52,7 +50,7 @@
 
 ---
 
-# 🐼 Panda Coding Corner 🌸
+# 🐼 Coding Connections Corner 🌸
 
 <p align="center">
   
