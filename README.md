@@ -52,27 +52,24 @@
 
 ---
 
-
-
 # 🐼 Panda Coding Corner 🌸
 
-
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyba-Zulfiqar&layout=compact&theme=rose_pine&hide_border=true&title_color=ffb6d9&text_color=f8d7e3&bg_color=1a1b27" 
-    width="420"
+    src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" 
+    width="260"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://media.giphy.com/media/8vQSQ3cNXuDGo/giphy.gif" 
-    width="220"
-  />
+💌 Let’s connect if you love coding, cute projects, tech communities, or fun side quests!
+
+ 🌸**tayybazulfiqar786@gmail.com**🌸
+
 </p>
 
-<p align="center">
- 💌 Let’s connect if you love coding, cute projects, tech communities, or fun side quests!
+---
 
-  🌸 **tayybazulfiqar786@gmail.com** 🌸
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6D9&height=120&section=footer"/>
 </p>
