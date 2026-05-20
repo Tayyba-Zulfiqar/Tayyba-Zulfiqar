@@ -73,15 +73,24 @@
   </a>
 </p>
 
-<br>
-<h3 align="left">GitHub Status : 🍓🌷</h3>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tayyba-Zulfiqar&show_icons=true&theme=rose_pine&locale=en" alt="tayyba-zulfiqar" /></p>
+<h3 align="left">💖 GitHub Magic Stats : 🍓✨</h3>
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Tayyba-Zulfiqar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&icon_color=ff9ecb&title_color=ffb7d5&text_color=f8c8dc" 
+    height="180"
+  />
+</p>
 
-<h3 align="left">Languages Status : 🍓🌷</h3>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tayyba-Zulfiqar&show_icons=true&locale=en&layout=compact&theme=rose_pine" alt="top-langs" /></p>
+<h3 align="left">🌷 Language Love Board : 🍰💗</h3>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyba-Zulfiqar&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&title_color=ffb7d5&text_color=f8c8dc" 
+    height="180"
+  />
+</p>
 
 
