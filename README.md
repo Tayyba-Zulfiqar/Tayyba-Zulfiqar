@@ -27,9 +27,7 @@
 
 <br>
 
-💌 Let’s connect if you love coding, cute projects, tech communities, or fun side quests!
 
-📧 **tayybazulfiqar786@gmail.com**
 
 ---
 
@@ -58,9 +56,10 @@
 
 # 🐼 Panda Coding Corner 🌸
 
+
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyba-Zulfiqar&layout=compact&theme=tokyonight&hide_border=true&title_color=FFB6D9&text_color=F8D7E3&bg_color=1a1b27" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyba-Zulfiqar&layout=compact&theme=rose_pine&hide_border=true&title_color=ffb6d9&text_color=f8d7e3&bg_color=1a1b27" 
     width="420"
   />
 </p>
@@ -73,5 +72,7 @@
 </p>
 
 <p align="center">
-  🌸 powered by coffee, creativity & debugging magic 🌸
+ 💌 Let’s connect if you love coding, cute projects, tech communities, or fun side quests!
+
+  🌸 **tayybazulfiqar786@gmail.com** 🌸
 </p>
