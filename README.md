@@ -6,7 +6,7 @@
 
 <p align="center">
   <img 
-    src="https://github.com/Tayyba-Zulfiqar/Tayyba-Zulfiqar/blob/main/girl%2C%20yellow%2C%20pixel%2C%20icon.jpg" 
+    src="https://github.com/Tayyba-Zulfiqar/Tayyba-Zulfiqar/blob/main/download%20(7).jpg" 
     width="280"
   />
 </p>
