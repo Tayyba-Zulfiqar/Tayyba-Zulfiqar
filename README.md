@@ -1,7 +1,7 @@
-<h1 align="center">Hii, I'm Tayyba! 🧸🌸</h1>
+<h1 align="center">Hii, I'm Tayyba! 𓍢ִ໋🌷͙֒ </h1>
 
 <h3 align="center">
-  Welcome to my little corner of the internet 👩🏻‍💻✨
+  Welcome to my little corner of the internet 🧸🌸
 </h3>
 
 <p align="center">
@@ -17,11 +17,14 @@
 
 ## 🌷 About Me
 
-🐰 Final Year Software Engineering Student in Pakistan  
-💕 MERN Stack Developer — building with MongoDB, Express, React , React Native & Node.js  
-🌸 Currently exploring Artificial Intelligence & creative tech  
-🎀 Love building aesthetic, fun, and meaningful projects  
-☁️ Mixing creativity with code every day  
+
+🐰Final Year Software Engineering Student in Pakistan
+
+🌷**AI & Full Stack Developer** — building intelligent applications with **LLMs and Agentic AI**
+
+🎨 Sprinkling creativity into code, building cute and fun projects
+
+
 
 <br>
 
